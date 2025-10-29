@@ -1,0 +1,10 @@
+path: /home/yusse/dev/Arabic OCR/datasets
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: Merchant
+  1: Date
+  2: Total
+  3: Item
+nc: 4
